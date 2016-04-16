@@ -1,2 +1,2 @@
 # zhipc.github.com
-My online resume
+My homepage
